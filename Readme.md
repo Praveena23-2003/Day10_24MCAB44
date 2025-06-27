@@ -52,7 +52,7 @@ src/
 ### 2️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/Elective-registration-Day10.git
+git clone https://github.com/Praveena23-2003/Day10_24MCAB44.git
 cd Elective-registration-Day10
 3️⃣ Update Email Credentials
 Edit EmailUtil.java:
